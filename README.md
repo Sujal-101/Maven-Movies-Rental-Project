@@ -103,16 +103,16 @@ Retrieve customer first name, last name, and email ID.
 ![Behind the Scenes Films](Outputs/FILMS_WITH_SPECIAL_FEATURES.png)
 
 ### 17. Unique Movie Ratings and Count
-![Unique Ratings](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNI_MOVIES_RATINGS_%26_NO_OF_MOVIES.png)
+![Unique Ratings](Outputs/RATINGWISE_MOVIES.png)
 
 ### 18. Titles Count by Rental Duration
-![Rental Duration Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
+![Rental Duration Count](Outputs/RENTAL_DURATIONWISE_MOVIES.png)
 
 ### 19. Ratings, Movie Count, Length, and Rental Duration
-![Ratings and Rental Duration](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/COMPARE_WITH_RENTAL_DURATION.png)
+![Ratings and Rental Duration](Outputs/COMPARE_LENGTH.png)
 
 ### 20. Film Count by Replacement Cost with Rental Rates
-![Replacement Cost Analysis](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MIN_MAX_AVG.png)
+![Replacement Cost Analysis](Outputs/RENTAL_VS_REPLACEMENT.png)
 
 ### 21. Customers with Less Than 15 Rentals
 ![Low Rental Customers](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/less_15.png)
