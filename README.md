@@ -121,21 +121,21 @@ Retrieve customer first name, last name, and email ID.
 ![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
 
 ### 23. Categorization of Movies by Length
-![Movies Categorized by Length](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/SLICED_BY_RENTAL_RATE.png)
+![Movies Categorized by Length](Outputs/RENTAL_DURATIONWISE_MOVIES.png)
 
 ### 24. Movie Recommendations by Age Group
-![Age-Based Recommendations](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FIT_FOR_RECOMMENDATION.png)
+![Age-Based Recommendations](Outputs/RECOMMENDATION_SYSTEM.png)
 
 ### 25. Films Inventory List
-![Films in Inventory](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/FILMS_IN_INVENTORY.png)
+![Films in Inventory](Outputs/FILM_INVENTORY.png)
 
 ### 26. Actor Movie Count
-![Actor Movie Count](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/NO_OF_FILMS_BY_ACTOR.png)
+![Actor Movie Count](Outputs/ACTORS_NUMBER_OF_FILMS.png)
 
 ### 27. Number of Actors per Film
-![Actors per Title](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/ACTOR_ASSOCIATED_WITH_TITLE.png)
+![Actors per Title](Outputs/INVESTOR_REQUEST.png)
 
 ### 28. List of Staff and Advisors
-![Staff and Advisors](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/UNION.png)
+![Staff and Advisors](Outputs/CONFERENCE_LIST.png)
 
 ---
